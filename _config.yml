@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhang Haowei"
   avatar           : "profile.png"
-  bio              : "changhw@zju.edu.cn"
-  location         : "Location"
+  bio              : "Welcome here!"
+  location         : "Shanghai"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "changhw@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
