@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Personal Information"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Education
 ======
 1. 2013-2017, Zhejiang University, Bachelor of Science (Physics);
