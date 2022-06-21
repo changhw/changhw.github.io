@@ -22,5 +22,6 @@ Co-author
 * W Zhang, SC Jardin, ZW Ma*, A Kleiner, and **HW Zhang**, Linear and nonlinear benchmarks between the CLT code and the M3D-C1 code for the 2/1 resistive tearing mode and the 1/1 resistive kink mode, [Computer Physics Communications, 2021, 269, 108134](https://www.sciencedirect.com/science/article/pii/S0010465521002460?casa_token=6CfgfWaSXBgAAAAA:Zi6z2vNwvqHbn-c8zwHmpy2DqIMFfCmltDTzZVwWQuKgLZHXH1PkvtVQv01o_DaI1ptf_SQCp_A);
 * WJ Chen, ZW Ma*, **HW Zhang**, W Zhang, and LW Yan, Free-boundary plasma equilibria with toroidal plasma flows, [Plasma Science and Technology, 2022, 24, 035101](https://iopscience.iop.org/article/10.1088/2058-6272/ac48de/meta?casa_token=2H2kU2TNRZkAAAAA:K0n8qKS4aTjeq9YFlGulZCycNkBGLgv9AaiG5rkz1f0vs6dxGWsAblLE08AvtArK2dlBw0tCO_7yNKM);
 
-PhD thesis
+Doctorate thesis
 ======
+* **HW Zhang**, Nonlinear simulation study of energetic particle physics in Tokamaks, [Zhejiang University, 2022](http://changhw.github.io/files/PlasmaThesisOneSide.pdf).
