@@ -30,6 +30,6 @@ Research
 
 Work/Internship & Contest 
 ======
-1. 2016. 08 – 2016. 10: Beijing HQ Education Group (Hangzhou Branch). Participated in the mathematical modeling and program development for the module of class arrangement in the educational administration system;
-2. 2019. 08: Fusion Research Center at ENN Group. Completed the development and optimization of the CLT code for simulating the MHD instabilities in the field-reversed configuration (FRC);
-3. 2018. 09: Participated in “HUAWEI Cup” The 15th China Post-Graduate Mathematical Contest in Modeling. Completed the project of "Airport Flight – Gate Assignment Problem Based on Genetic Algorithm". Won the 3rd prize.
+1. Aug 2016 – Oct 2016: Beijing HQ Education Group (Hangzhou Branch). Participated in the mathematical modeling and program development for the module of class arrangement in the educational administration system;
+2. Aug 2019: Fusion Research Center at ENN Group. Completed the development and optimization of the CLT code for simulating the MHD instabilities in the field-reversed configuration (FRC);
+3. Sep 2018: Participated in “HUAWEI Cup” The 15th China Post-Graduate Mathematical Contest in Modeling. Completed the project of "Airport Flight – Gate Assignment Problem Based on Genetic Algorithm". Won the 3rd prize.
