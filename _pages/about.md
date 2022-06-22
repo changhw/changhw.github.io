@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Information"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,17 +16,18 @@ Education
 Research
 ---
 * Module development and acceleration of the CLT & CLT-K code
-    - Application of the cut-cell boundary handling method at the CLT code;
-    - Development of the RMP module of the EAST & HL-2A Tokamaks at the CLT code;
+    - Application of the cut-cell boundary handling method in the CLT code;
+    - Development of the resonant magnetic perturbation (RMP) module of the EAST & HL-2A Tokamaks in the CLT code;
+    - Development and validation of pressure coupling schemes in the CLT-K code;
     - Acceleration of the CLT & CLT-K code using the multiple MPI communication domains + OpenACC technologies;
     - Finished the parallel tests of the CLT-K code for 100,000-core at the Tianhe-2 supercomputer (parallel efficiency > 70%) and 200,000-core at the Sugon prototype (parallel efficiency > 60%).
 * Simulation studies of the RMP physics in Tokamaks
     - Verification of the RMP module in the CLT code in comparison with the MARS-F code;
     - Numerically studied the penetration properties of RMP in EAST Tokamak;
     - Discussed the importance of toroidicity, toroidal rotation, and nonlinearity in the RMP penetration processes.
-* Nonlinear interaction of EPs with tearing mode (TM) and toroidal Alfvén eigenmode (TAE)
-    - Investigated the influence of EPs on the linear stabilities of TM;
-    - Studied the generation mechanisms of the zonal flow and the TAE due to the redistribution of EPs by the TM.
+* Nonlinear interaction of energetic particles (EPs) with tearing mode and toroidal Alfvén eigenmode (TAE)
+    - Investigated the influence of EPs on the linear stabilities of tearing mode;
+    - Studied the generation mechanisms of the zonal flow and the TAE due to the redistribution of EPs by the tearing mode.
 
 Work/Internship & Contest 
 ---
