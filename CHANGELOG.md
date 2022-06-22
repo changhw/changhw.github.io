@@ -410,6 +410,7 @@
 - Cleaned up the Kramdown auto table of contents styling to be more readable
 - Removed page width specific .less stylesheets and created mixins for easier updating
 - Removed Modernizr since it wasn't being used
+- Added pages to sitemap.xml
 - Added category: to rake new_post task
 - Minor typographic changes
 
