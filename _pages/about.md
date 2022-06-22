@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 Education
-======
+---
 * 2013-2017, Zhejiang University, Bachelor of Science (Physics);
 * 2017-2022, Zhejiang University, Doctorate of Science (Plasma Physics);
 
 Research
-======
+---
 * Module development and acceleration of the CLT & CLT-K code
     - Application of the cut-cell boundary handling method at the CLT code;
     - Development of the RMP module of the EAST & HL-2A Tokamaks at the CLT code;
@@ -29,7 +29,7 @@ Research
     - Studied the generation mechanisms of the zonal flow and the TAE due to the redistribution of EPs by the TM.
 
 Work/Internship & Contest 
-======
+---
 * Aug 2016 – Oct 2016: Beijing HQ Education Group (Hangzhou Branch). Participated in the mathematical modeling and program development for the module of class arrangement in the educational administration system;
 * Aug 2019: Fusion Research Center at ENN Group. Completed the development and optimization of the CLT code for simulating the MHD instabilities in the field-reversed configuration (FRC);
 * Sep 2018: Participated in “HUAWEI Cup” The 15th China Post-Graduate Mathematical Contest in Modeling. Completed the project of "Airport Flight – Gate Assignment Problem Based on Genetic Algorithm". Won the 3rd prize.
