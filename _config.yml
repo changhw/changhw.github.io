@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhang Haowei (张豪伟)"
 title_separator          : "-"
-name                     : &name "ZHANG HAOWEI"
+name                     : &name "Zhang Haowei"
 description              : &description "personal description"
 url                      : https://changhw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
