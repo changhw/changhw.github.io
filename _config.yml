@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhang Haowei (张豪伟)"
+title                    : "ZHANG Haowei (张豪伟)"
 title_separator          : "-"
-name                     : &name "Zhang Haowei"
+name                     : &name "ZHANG Haowei"
 description              : &description "personal description"
 url                      : https://changhw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhang Haowei"
+  name             : "ZHANG Haowei"
   avatar           : "profile.png"
   bio              : "Welcome here!"
-  location         : "Shanghai"
+  location         : "Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"

@@ -15,8 +15,8 @@ Education
 
 Career
 ---
-* July 2022 - Aug 2023: software engineer (GPGPU, CUDA, SYCL, ONEAPI), Intel (Shanghai, China)
-* Aug 2023 - now: postdoc (MHD), Max Planck Institute for Plasma Physics (Garching, Germany)
+* July 2022 - Aug 2023: Software engineer (GPGPU, CUDA, SYCL, ONEAPI), Intel (Shanghai, China)
+* Aug 2023 - now: Postdoc (MHD), Max Planck Institute for Plasma Physics (Garching, Germany)
 
 Research
 ---
