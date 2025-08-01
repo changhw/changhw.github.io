@@ -13,6 +13,11 @@ Education
 * 2013-2017, Zhejiang University, Bachelor of Science (Physics);
 * 2017-2022, Zhejiang University, Doctorate of Science (Plasma Physics);
 
+Career
+---
+* July 2022 - Aug 2023: software engineer (GPGPU, CUDA, SYCL, ONEAPI), Intel (Shanghai, China)
+* Aug 2023 - now: postdoc (MHD), Max Planck Institute for Plasma Physics (Garching, Germany)
+
 Research
 ---
 * Module development and acceleration of the CLT & CLT-K code
@@ -28,9 +33,12 @@ Research
 * Nonlinear interaction of energetic particles (EPs) with tearing mode and toroidal Alfvén eigenmode (TAE)
     - Investigated the influence of EPs on the linear stabilities of tearing mode;
     - Studied the generation mechanisms of the zonal flow and the TAE due to the redistribution of EPs by the tearing mode.
+* Flux pumping and sawtooth modelling
+    - Investigating the flux pumping and sawtoothing discharges for ASDEX-Upgrade tokamak;
 
-Work/Internship & Contest 
+Internship & Contest 
 ---
 * Aug 2016 – Oct 2016: Beijing HQ Education Group (Hangzhou Branch). Participated in the mathematical modeling and program development for the module of class arrangement in the educational administration system;
 * Aug 2019: Fusion Research Center at ENN Group. Completed the development and optimization of the CLT code for simulating the MHD instabilities in the field-reversed configuration (FRC);
 * Sep 2018: Participated in “HUAWEI Cup” The 15th China Post-Graduate Mathematical Contest in Modeling. Completed the project of "Airport Flight – Gate Assignment Problem Based on Genetic Algorithm". Won the 3rd prize.
+
