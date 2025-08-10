@@ -20,13 +20,15 @@ First-author
 Co-author
 ---
 
-* ZW Ma\*, T Chen, **HW Zhang**, and MY Yu, Effective resistivity in collisionless magnetic reconnection, [Scientific Reports, 2018, 8(1), 10521](https://doi.org/10.1038/s41598-018-28851-7);
+* ZW Ma\*, T Chen, **HW Zhang**, and MY Yu, Effective resistivity in collisionless magnetic reconnection, [Scientific Reports, 2018, 8, 10521](https://doi.org/10.1038/s41598-018-28851-7);
+* W Zhang, ZW Ma\*, F Porcelli, **HW Zhang**, X Wang, Sawtooth relaxation oscillations, nonlinear helical flows and steady-state m/n=1 magnetic islands in low-viscosity tokamak plasma simulations, [Nuclear Fusion, 2020, 60, 096013](https://doi.org/10.1088/1741-4326/ab9dcd)
 * W Zhang, SC Jardin, ZW Ma\*, A Kleiner, and **HW Zhang**, Linear and nonlinear benchmarks between the CLT code and the M3D-C1 code for the 2/1 resistive tearing mode and the 1/1 resistive kink mode, [Computer Physics Communications, 2021, 269, 108134](https://doi.org/10.1016/j.cpc.2021.108134);
 * WJ Chen, ZW Ma\*, **HW Zhang**, W Zhang, and LW Yan, Free-boundary plasma equilibria with toroidal plasma flows, [Plasma Science and Technology, 2022, 24, 035101](https://doi.org/10.1088/2058-6272/ac48de);
 * L Guo, **HW Zhang**, and HC Wu\*, High-frequency radio-wave emission by coherent transition radiation of runaway electrons produced by lightning stepped leaders, [Physics of Plasmas 2022, 29, 093102](https://doi.org/10.1063/5.0102132);
-* X Wang, **HW Zhang**, WJ Chen, TF Sun, W Zhang\*, and ZW Ma\*, Penetration properties of applied resonant magnetic perturbation in HL-2A tokamak, [Nulcear Fusion, 2023, 63, 096023](https://doi.org/10.1088/1741-4326/aceb77)
+* X Wang, **HW Zhang**, WJ Chen, TF Sun, W Zhang\*, and ZW Ma\*, Penetration properties of applied resonant magnetic perturbation in HL-2A tokamak, [Nuclear Fusion, 2023, 63, 096023](https://doi.org/10.1088/1741-4326/aceb77)
 * HX Zhang, **HW Zhang**, ZW Ma\*, and C Liu, Influences of $\delta$B contribution and parallel inertial term of energetic particles on MHD-kinetic hybrid simulations: a case study of the 1/1 internal kink mode, [Plasma Physics and Controlled Fusion, 2024, 67, 015033](https://doi.org/10.1088/1361-6587/ad994c);
-* R Ramasamy\*, **HW Zhang**, J Geiger, C Nührenberg, H M Smith, K Lackner, V Igochine, A comparison of low-n Mercier unstable Wendelstein stellarators and quasi-interchange modes in tokamaks, [Journal of Plasma Physics, accepted](https://arxiv.org/abs/2505.03987)
+* R Ramasamy\*, **HW Zhang**, J Geiger, C Nührenberg, H M Smith, K Lackner, V Igochine, A comparison of low-n Mercier unstable Wendelstein stellarators and quasi-interchange modes in tokamaks, [Journal of Plasma Physics, 2025, 91, E119](https://doi.org/10.1017/S0022377825100512)
+* HX Zhang, **HW Zhang\***, ZW Ma\*, JX Huang, W Zhang, Stabilization and Re-excitation of Sawtooth Oscillations due to Energetic Particles in Tokamaks, [submitted to Nuclear Fusion](https://arxiv.org/abs/2508.04210)
 * $\cdot\cdot\cdot$
 
 Doctorate thesis
