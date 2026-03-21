@@ -10,7 +10,7 @@ author_profile: true
 ## 📚 **Publications**
 **[ORCID: 0000-0003-1342-5756](https://orcid.org/0000-0003-1342-5756)**
 ### 🥇 *First-Author Publications*
-1. **HW Zhang\***, M Hoelzl, I Krebs, A Burckhart, A Bock, S Guenter, V Igochine, K Lackner, D Bonfiglio, E Fable, F Stefanelli, R Ramasamy, H Zohm, the JOREK Team, and the ASDEX Upgrade Team. Flux pumping and bifurcated relaxations of helical core in 3D magnetohydrodynamic modelling of ASDEX Upgrade plasmas, [Submitted to Nucl. Fusion](https://arxiv.org/abs/2602.15431)
+1. **HW Zhang\***, M Hoelzl, I Krebs, A Burckhart, A Bock, S Guenter, V Igochine, K Lackner, D Bonfiglio, E Fable, F Stefanelli, R Ramasamy, H Zohm, the JOREK Team, and the ASDEX Upgrade Team. Flux pumping and bifurcated relaxations of helical core in 3D magnetohydrodynamic modelling of ASDEX Upgrade plasmas. [Submitted to Nucl. Fusion](https://arxiv.org/abs/2602.15431)
 2. **HW Zhang\***, ZW Ma\*, and T Chen. *Effective resistivity for magnetohydrodynamic simulation of collisionless magnetic reconnection.* [*J. Geophys. Res.: Space Phys.*, **130**, e2025JA034289 (2025).](https://doi.org/10.1029/2025JA034289) 
 3. **HW Zhang\***, M Hölzl, I Krebs, A Burckhart, A Bock, S Günter, V Igochine, K Lackner, H Zohm, the JOREK team, and the ASDEX Upgrade team. *Quantitative Magnetohydrodynamic Modelling of Flux Pumping in ASDEX Upgrade.* [*Nucl. Fusion*, **65**, 066001 (2025).](https://doi.org/10.1088/1741-4326/adcfb4)  
 4. **HW Zhang**, and ZW Ma. *Validation of the current and pressure coupling schemes with nonlinear simulations of TAE and analysis on the linear stability of tearing mode in the presence of energetic particles.* [*Plasma Sci. Technol.*, **25**, 045105 (2023).](https://doi.org/10.1088/2058-6272/aca6c0)  
