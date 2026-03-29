@@ -8,37 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-Education
+## 🎓 **Education**
 ---
-* 2013-2017, Zhejiang University, Bachelor of Science (Physics);
-* 2017-2022, Zhejiang University, Doctorate of Science (Plasma Physics);
+* 2013-2017, Zhejiang University, Bachelor of Science (Physics)
+    - Studied magnetic reconnection.
+* 2017-2022, Zhejiang University, Doctorate of Science (Plasma Physics)
+    - Performance optimization and module development of the Magnetohydrodynamic (MHD) code CLT and the MHD-kinetic hybrid code CLT-K.  
+    - Studied the resonant magnetic perturbation (RMP) penetration dynamics in EAST and HL-2A tokamaks.
+    - Studied the nonlinear energetic particle physics in general tokamak plasmas.
 
-Career
+## 💼 **Career**
 ---
-* July 2022 - Aug 2023: Software engineer (GPGPU, CUDA, SYCL, ONEAPI), Intel (Shanghai, China)
+* Jul 2022 - Aug 2023: Software engineer (GPGPU, CUDA, SYCL, ONEAPI), Intel (Shanghai, China)
+    - Investigated low-level GPU pipelines using SYCL at the pre-silicon stage.  
+    - Developed several GPU workloads, performed performance analysis and accelerated the compute-intensive workloads.
+    - Developed and optimized a C++ computer vision project for Intel and Nvidia GPUs using SYCL, CUDA, and hardware decoding/encoding.  
+
 * Aug 2023 - now: Postdoc (MHD), Max Planck Institute for Plasma Physics (Garching, Germany)
+    - MHD modelling of the nonlinear flux pumping dynamics in ASDEX Upgrade and JET with JOREK. 
+    - Compare numerical simulations with experimental observations for validation.
+    - Explore the operation windows of flux pumping.
 
-Research
----
-* Module development and acceleration of the CLT & CLT-K code
-    - Application of the cut-cell boundary handling method in the CLT code;
-    - Development of the resonant magnetic perturbation (RMP) module of the EAST & HL-2A Tokamaks in the CLT code;
-    - Development and validation of pressure coupling schemes in the CLT-K code;
-    - Acceleration of the CLT & CLT-K code using the multiple MPI communication domains + OpenACC technologies;
-    - Finished the parallel tests of the CLT-K code for 100,000-core at the Tianhe-2 supercomputer (parallel efficiency > 70%) and 200,000-core at the Sugon prototype (parallel efficiency > 60%).
-* Simulation studies of the RMP physics in Tokamaks
-    - Verification of the RMP module in the CLT code in comparison with the MARS-F code;
-    - Numerically studied the penetration properties of RMP in EAST Tokamak;
-    - Discussed the importance of toroidicity, toroidal rotation, and nonlinearity in the RMP penetration processes.
-* Nonlinear interaction of energetic particles (EPs) with tearing mode and toroidal Alfvén eigenmode (TAE)
-    - Investigated the influence of EPs on the linear stabilities of tearing mode;
-    - Studied the generation mechanisms of the zonal flow and the TAE due to the redistribution of EPs by the tearing mode.
-* Flux pumping and sawtooth modelling
-    - Investigating the flux pumping and sawtoothing discharges for ASDEX-Upgrade tokamak;
+## 🧑‍🔬 **Research Interests**
+- MHD and MHD-kinetic hybrid modelling  
+- Tokamak and space plasma physics
+- High performance computing and parallel programming for plasma simulation  
 
-Internship & Contest 
+<!-- Internship & Contest 
 ---
 * Aug 2016 – Oct 2016: Beijing HQ Education Group (Hangzhou Branch). Participated in the mathematical modeling and program development for the module of class arrangement in the educational administration system;
 * Aug 2019: Fusion Research Center at ENN Group. Completed the development and optimization of the CLT code for simulating the MHD instabilities in the field-reversed configuration (FRC);
-* Sep 2018: Participated in “HUAWEI Cup” The 15th China Post-Graduate Mathematical Contest in Modeling. Completed the project of "Airport Flight – Gate Assignment Problem Based on Genetic Algorithm". Won the 3rd prize.
+* Sep 2018: Participated in “HUAWEI Cup” The 15th China Post-Graduate Mathematical Contest in Modeling. Completed the project of "Airport Flight – Gate Assignment Problem Based on Genetic Algorithm". Won the 3rd prize. -->
 
